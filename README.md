@@ -2,7 +2,7 @@
 The application to check Qlik Sense PostgreSQL versions and all of the tables and columns in Qlik Sense QSR Database
 
 # Note
-Applicable Qlik Sense versions: April 2018, June 2018, September 2018, November 2018
+Applicable for Qlik Sense versions: April 2018, June 2018, September 2018 and November 2018
 
 # Instruction
 Download the .qvf file and open it from Qlik Sense Desktop or import it in QMC and open it on Hub(Qlik Sense Server)
