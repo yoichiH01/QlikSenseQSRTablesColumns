@@ -2,7 +2,7 @@
 The application to check Qlik Sense PostgreSQL versions and all of the tables and columns in Qlik Sense QSR Database
 
 # Note
-- Applicable Qlik Sense versions: April 2018、June 2018、September 2018、November 2018
+Applicable Qlik Sense versions: April 2018, June 2018, September 2018, November 2018
 
 # Disclaimer
 The application is not supported by Qlik. Please use it on your own risk. 
